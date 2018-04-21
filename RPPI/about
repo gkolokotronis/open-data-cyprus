@@ -16,11 +16,15 @@ Valid values:
 
  
 General_Residential_Property_Price_Index.csv 
+This file provides the general residential property price index.
+
 General Residential Property Price Index:
 The value of general residential property price index.
 
 
-Residential_Property_Price_Index_By_Type.csv 
+Residential_Property_Price_Index_By_Type.csv
+This file provides the residential property price index by type.
+
 Appartment:
 The value of residential property price index for appartments.
 
@@ -29,6 +33,8 @@ The value of residential property price index for houses.
 
 
 Residential_Property_Price_Index_By_Province.csv
+This file provides the residential property price index by province.
+
 Nicosia:
 The value of residential property price index for Nicosia.
 
@@ -43,3 +49,11 @@ The value of residential property price index for Paphos.
 
 Famagusta:
 The value of residential property price index for Famagusta.
+
+
+Residential_Property_Price_Index_By_Province_Appartments.csv
+This file provides the residential property price index for appartments by province.
+
+
+Residential_Property_Price_Index_By_Province_Houses.csv
+This file provides the residential property price index for houses by province.
