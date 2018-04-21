@@ -1,3 +1,25 @@
 Δείκτες τιμών Κατοικιών - House Price Indices
 
 Source: https://www.centralbank.cy/el/publications/residential-property-price-indices
+
+houses_by_type.csv 
+Year 
+The year which the index is valid for
+
+Quarter 
+The quarter which the index is valid for.
+Valid values:
+1 = First quarter (January - March)
+2 = Second quarter (April - June)
+3 = Third quarter (July - September)
+4 = Fourth quarter (October - December)
+
+Type
+The type of the house
+Valid values:
+Appartment: 0
+House: 1 
+
+HousePriceIndex
+The value of the house price index. More information on what is this can be found on the official website of the Central Bank of Cyprus.
+
