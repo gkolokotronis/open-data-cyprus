@@ -13,3 +13,10 @@ Total: Sum of new business and renegotiations.
 New Business: New loans that were given during the month. 
 
 Renegotiations: Loans that were renegotiated during the month.
+
+
+Loans_NFC_up_to_1M.csv: New loans up to 1 million euro to non-financial corporations in the euro area, broken down into net new business and loans renegotiated.
+
+Loans_NFC_greater_than_1M.csv: New loans greather than 1 million euro to non-financial corporations in the euro area, broken down into net new business and loans renegotiated.
+
+Loans_NFC_total.csv: New loans to non-financial corporations in the euro area, broken down into net new business and loans renegotiated.
