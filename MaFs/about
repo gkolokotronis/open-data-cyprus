@@ -2,4 +2,14 @@
 
 Source: https://www.centralbank.cy/el/publications/monetary-and-financial-statistics/year-2018
 
-Common columns for all files:
+Common columns for all files
+
+Year: The year which the data is valid for.
+
+Month: The month which the data is valid for.
+
+Total: Sum of new business and renegotiations.
+
+New Business: New loans that were given during the month. 
+
+Renegotiations: Loans that were renegotiated during the month.
