@@ -1,0 +1,23 @@
+Νομισματικές και Χρηματοοικονομικές Στατιστικές - Monetary and Financial statistics
+Νοικοκυρία - Households
+
+Source: https://www.centralbank.cy/el/publications/monetary-and-financial-statistics/year-2018
+
+Common columns for all files
+
+Year: The year which the data is valid for.
+
+Month: The month which the data is valid for.
+
+Total: Sum of new business and renegotiations.
+
+New Business: New loans that were given during the month. 
+
+Renegotiations: Loans that were renegotiated during the month.
+
+
+Loans_HHO_consumption.csv: New loans for consumption to households in the euro area, broken down into net new business and loans renegotiated.
+
+Loans_HHO_house_purchase.csv: New loans for house purchase to households in the euro area, broken down into net new business and loans renegotiated.
+
+Loans_HHO_other_purposes.csv: New loans for other purposes to households in the euro area, broken down into net new business and loans renegotiated.
