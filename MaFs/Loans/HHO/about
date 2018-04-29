@@ -23,3 +23,5 @@ Loans_HHO_consumption.csv: New loans for consumption to households in the euro a
 Loans_HHO_house_purchase.csv: New loans for house purchase to households in the euro area, broken down into net new business and loans renegotiated.
 
 Loans_HHO_other_purposes.csv: New loans for other purposes to households in the euro area, broken down into net new business and loans renegotiated.
+
+Loans_HHO_total.csv: Total new loans to households in the euro area, broken down into net new business and loans renegotiated.
