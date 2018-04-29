@@ -17,3 +17,11 @@ Loans_total_volumes.csv (Π4): Loans from Monetary Financial Institutions to non
 Domestic residents: Loans given to domestic residents.
 Residents of other participating EU Member States: Loans given to residents of other participating EU member states.
 Residents of the rest of the world: Loans given to residents of the rest of the world.
+
+Loans_total_volumes_per_currency.csv (Π5): Loans from Monetary Financial Institutions to non Monetary Financial Institutions per currency (Euro and Other).
+Euro: Loans given in Euro.
+Other: Loans given in Other currencies.
+Of which USD: Loans given in USD from other currencies.
+Of which GDP: Loans given in GDP from other currencies.
+Of which JPY: Loans given in JPY from other currencies.
+Of which CHF: Loans given in CHF from other currencies.
