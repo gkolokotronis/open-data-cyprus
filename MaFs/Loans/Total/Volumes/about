@@ -11,14 +11,9 @@ Year: The year which the data is valid for.
 
 Month: The month which the data is valid for.
 
-Total: Sum of new business and renegotiations.
+Total: Total volume of loans.
 
-New Business: New loans that were given during the month. 
-
-Renegotiations: Loans that were renegotiated during the month.
-
-Loans_NFC_up_to_1M.csv: New loans up to 1 million euro to non-financial corporations in the euro area, broken down into net new business and loans renegotiated.
-
-Loans_NFC_greater_than_1M.csv: New loans greather than 1 million euro to non-financial corporations in the euro area, broken down into net new business and loans renegotiated.
-
-Loans_NFC_total.csv: New loans to non-financial corporations in the euro area, broken down into net new business and loans renegotiated.
+Loans_total_volumes.csv: Loans from Monetary Financial Institutions to non Monetary Financial Institutions.
+Domestic residents: Loans given to domestic residents.
+Residents of other participating EU Member States: Loans given to residents of other participating EU member states.
+Residents of the rest of the world: Loans given to residents of the rest of the world.
