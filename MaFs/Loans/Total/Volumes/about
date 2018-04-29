@@ -1,4 +1,4 @@
-Νομισματικές και Χρηματοοικονομικές Στατιστικές - Monetary and Financial statistics
+ (Νομισματικές και Χρηματοοικονομικές Στατιστικές - Monetary and Financial statistics
 Μη-Χρηματοδοτικές Εταιρείες - Non Financial Corporations
 
 Source: 
@@ -13,7 +13,7 @@ Month: The month which the data is valid for.
 
 Total: Total volume of loans.
 
-Loans_total_volumes.csv: Loans from Monetary Financial Institutions to non Monetary Financial Institutions.
+Loans_total_volumes.csv (Π4): Loans from Monetary Financial Institutions to non Monetary Financial Institutions.
 Domestic residents: Loans given to domestic residents.
 Residents of other participating EU Member States: Loans given to residents of other participating EU member states.
 Residents of the rest of the world: Loans given to residents of the rest of the world.
