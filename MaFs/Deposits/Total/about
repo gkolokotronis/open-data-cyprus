@@ -1,0 +1,27 @@
+(Νομισματικές και Χρηματοοικονομικές Στατιστικές - Monetary and Financial statistics
+Μη-Χρηματοδοτικές Εταιρείες - Non Financial Corporations
+
+Source: 
+https://www.centralbank.cy/el/publications/monetary-and-financial-statistics/year-2018
+Sheet: Π1 Π2 Π3 Π3.1  Π3.2 Π3.3
+
+Common columns for all files
+
+Year: The year which the data is valid for.
+
+Month: The month which the data is valid for.
+
+Total: Total volume of deposits.
+
+Deposits_total_volumes.csv (Π1): Deposits of non Monetary Financial Institutions to Monetary Financial Institutions.
+Domestic residents: Deposits of to domestic residents.
+Residents of other participating EU Member States: Deposits of residents of other participating EU member states.
+Residents of the rest of the world: Deposits of residents of the rest of the world.
+
+Deposits_total_volumes_per_currency.csv (Π2): Deposits pf non Monetary Financial Institutions to Monetary Financial Institutions per currency (Euro and Other).
+Euro: Deposits in Euro.
+Other: Deposits in Other currencies.
+Of which USD: Deposits in USD from other currencies.
+Of which GDP: Deposits in GDP from other currencies.
+Of which JPY: Deposits in JPY from other currencies.
+Of which CHF: Deposits in CHF from other currencies.
